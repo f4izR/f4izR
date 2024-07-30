@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://app.daily.dev/f4izr"><img src="https://api.daily.dev/devcards/v2/ZEAOhK8QXIhICUv4F9J7p.png?r=s9q&type=default" width="356" alt="f4izR's Dev Card"/></a>
 <!--
 **f4izR/f4izR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
