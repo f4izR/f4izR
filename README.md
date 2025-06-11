@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software Engineer</p>
+<p align="center">Software Engineer</p>
 
 ###
 
